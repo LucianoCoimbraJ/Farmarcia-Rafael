@@ -1,0 +1,18 @@
+body {
+    background-color: var(--cor-5);
+}
+
+.Gerador-de-senha, .Chamador-de-senha {
+    margin: 20px;
+    background-color: var(--cor-6);
+    color: var(--cor-2);
+}
+
+.Gerador-de-senha:hover, .Chamador-de-senha:hover {
+    background-color: var(--cor-4);
+}
+
+h1, h2 {
+    text-align: center;
+    color: var(--cor-4);
+}

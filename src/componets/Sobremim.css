@@ -1,0 +1,13 @@
+body {
+    background-color: var(--cor-1);
+}
+
+h1, p {
+    color: var(--cor-2);
+}
+
+.foto {
+    border-radius: 50%;
+    width: 150px;
+    height: auto;
+}
